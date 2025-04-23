@@ -87,7 +87,4 @@ Berikut cara aktivasinya:
 - `/sub/:page` -> Halaman sub/list akun
 - `/api/v1/sub` -> Subscription link, [Queries](#fitur)
 
-# Footnote
-
-- Hal aneh lain yang saya kerjakan [FoolVPN](https://t.me/foolvpn)
-- Tanya-tanya -> [Telegram](https://t.me/d_fordlalatina)
+# GROTENGERS PUNYA CERITA
