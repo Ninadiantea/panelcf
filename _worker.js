@@ -1,7 +1,7 @@
 const servervless = 'nautica.ciekek.workers.dev';
 const servertrojan = 'nautica.ciekek.workers.dev';
 const passuid = 'nautica.ciekek.workers.dev';
-const TELEGRAM_BOT_TOKEN = '7726859123:AAF5zPk0JlgStMC-8xYYBNk4yb_kHbGk6x0';
+const TELEGRAM_BOT_TOKEN = '7666099616:AAH2OnVflF2GeP3qJhMYnkZHnqlRg6z36sM';
 
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
