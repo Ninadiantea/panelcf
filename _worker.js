@@ -1,7 +1,7 @@
-const servervless = 'nautica.ciekek.workers.dev';
-const servertrojan = 'nautica.ciekek.workers.dev';
-const passuid = 'nautica.ciekek.workers.dev';
-const TELEGRAM_BOT_TOKEN = '7666099616:AAH2OnVflF2GeP3qJhMYnkZHnqlRg6z36sM';
+const servervless = 'https://vip.kaisaronline.web.id/sub';
+const servertrojan = 'https://vip.kaisaronline.web.id/sub';
+const passuid = 'b1969466-8d35-453f-b811-3194b5b1ab8f';
+const TELEGRAM_BOT_TOKEN = '8089020053:AAGLM8BIRlEx64Zsi4IQ6SMbq-XosbfFLv8:';
 
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
